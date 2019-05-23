@@ -2,3 +2,4 @@ src/go-and-do/vendor/*
 !src/go-and-do/vendor/vendor.json
 .cache/*
 src/go-and-do/go-and-do
+pkg/*
