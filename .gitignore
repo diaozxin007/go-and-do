@@ -1,3 +1,4 @@
 src/vendor/*
 !src/vendor/vendor.json
 .cache/*
+go-and-go
