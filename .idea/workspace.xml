@@ -2,82 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbfd446-dc7a-4ec4-a8bc-aafae52b3ead" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go-and-do.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/BurntSushi/toml.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/Joker/jade.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/Shopify/goreferrer.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/aymerick/raymond.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/aymerick/raymond/ast.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/aymerick/raymond/lexer.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/aymerick/raymond/parser.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/eknkc/amber.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/eknkc/amber/parser.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/fatih/structs.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/flosch/pongo2.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/iris-contrib/blackfriday.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/iris-contrib/formBinder.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/iris-contrib/go.uuid.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/json-iterator/go.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/juju/errors.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/golog.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/cfg.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/client.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/client/rule.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/entry.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/ruleset.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/cache/uri.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/context.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/errors.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/handlerconv.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/host.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/memstore.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/netutil.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/core/router.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro/handler.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro/interpreter/ast.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro/interpreter/lexer.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro/interpreter/parser.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/macro/interpreter/token.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/middleware/logger.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/middleware/recover.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/iris/view.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/pio.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/kataras/pio/terminal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/klauspost/compress/flate.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/klauspost/compress/gzip.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/klauspost/cpuid.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/klauspost/crc32.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/microcosm-cc/bluemonday.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/ryanuber/columnize.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/github.com/shurcooL/sanitized_anchor_name.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/golang.org/x/crypto/acme.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/golang.org/x/crypto/acme/autocert.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/golang.org/x/net/html.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/golang.org/x/net/html/atom.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/golang.org/x/net/publicsuffix.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/darwin_amd64/go-and-do/vendor/gopkg.in/yaml.v2.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go-and-do/controller/active.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go-and-do/database/database.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go-and-do/models/active.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go-and-do/vendor/vendor.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/conf/app.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/controllers/object.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/controllers/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/go-and-do" beforeDir="false" afterPath="$PROJECT_DIR$/src/go-and-do/go-and-do" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go-and-do/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go-and-do/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/models/object.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/models/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/routers/router.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go-and-do/tests/default_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vendor/vendor.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +12,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/go-and-do/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="373">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="e#13#159#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/reflect/value.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="14760">
               <caret line="988" selection-start-line="988" selection-end-line="988" />
             </state>
           </provider>
@@ -108,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/go/gopath/src/github.com/go-xorm/xorm/engine.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="17910">
               <caret line="1212" selection-start-line="1212" selection-end-line="1212" />
             </state>
           </provider>
@@ -126,11 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/go-and-do/models/active.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="270">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -138,20 +64,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/go-and-do/controller/active.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="330">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#20#57#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -159,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/context.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
+            <state relative-caret-position="10665">
               <caret line="742" column="4" selection-start-line="742" selection-start-column="4" selection-end-line="742" selection-end-column="4" />
             </state>
           </provider>
@@ -168,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/request_params.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-643">
+            <state relative-caret-position="615">
               <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
             </state>
           </provider>
@@ -177,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/log/log.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="4200">
               <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
             </state>
           </provider>
@@ -194,9 +117,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/go-and-do/database/database.go" />
         <option value="$PROJECT_DIR$/src/go-and-do/models/active.go" />
-        <option value="$PROJECT_DIR$/src/go-and-do/main.go" />
         <option value="$PROJECT_DIR$/src/go-and-do/controller/active.go" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/go-and-do/main.go" />
       </list>
     </option>
   </component>
@@ -221,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +191,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,26 +248,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1803" y="-135" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32939634" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32939634" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,52 +280,23 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/go-and-do/controller/active.go</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/go/src/log/log.go">
+    <entry file="file:///usr/local/go/src/reflect/value.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+        <state relative-caret-position="14760">
+          <caret line="988" selection-start-line="988" selection-end-line="988" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/go/gopath/src/github.com/go-xorm/xorm/engine.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="17910">
           <caret line="1212" selection-start-line="1212" selection-end-line="1212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/reflect/value.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="988" selection-start-line="988" selection-end-line="988" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/request_params.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-643">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/context.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="742" column="4" selection-start-line="742" selection-start-column="4" selection-end-line="742" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/go-and-do/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -414,28 +309,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/go-and-do/models/active.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="270">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/go-and-do/controller/active.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="330">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#20#57#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10665">
+          <caret line="742" column="4" selection-start-line="742" selection-start-column="4" selection-end-line="742" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go-and-do/vendor/github.com/kataras/iris/context/request_params.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/log/log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go-and-do/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#13#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
